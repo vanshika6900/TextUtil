@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import Alert from './components/Alert';
 
 // import About from './components/About';
-import {useState, useSyncExternalStore} from 'react';
+import {useState} from 'react';
 
 // import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
